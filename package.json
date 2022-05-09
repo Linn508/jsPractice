@@ -1,0 +1,20 @@
+{
+  "name": "jsPractice",
+  "version": "1.0.0",
+  "description": "做一些js小练习 -   `src`：书写 ES6 代码，我们写的 js 程序都放在这里。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linn508/jsPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linn508/jsPractice/issues"
+  },
+  "homepage": "https://github.com/Linn508/jsPractice#readme"
+}
